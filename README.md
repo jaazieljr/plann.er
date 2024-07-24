@@ -20,6 +20,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Feito com ❤️ por Jaaziel Júnior 👋🏽 Entre em contato!
 
-[![Instagram Badge](https://img.shields.io/badge/-@tgmarinho-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://www.instagram.com/lio_n_f/) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/jaaziel-dev/) 
+[Instagram](https://www.instagram.com/lio_n_f/)
+[Linkedin](https://www.linkedin.com/in/jaaziel-dev/) 
 
 
