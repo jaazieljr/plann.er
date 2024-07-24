@@ -1,5 +1,5 @@
 # plann.er
-## Projeto Front-end de um Planejador de Viagem desenvolvido com ReactJs/TypeScript no evento nlw Journey da Rocketseat.
+## Projeto Front-end de um Planejador de Viagem desenvolvido no evento nlw Journey da Rocketseat.
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
