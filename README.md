@@ -15,12 +15,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://github.com/jaazieljr">
  <img style="border-radius: 50%;" src="https://github.com/jaazieljr.png" width="100px;" alt=""/>
  <br />
- <sub><b>Jaaziel Júnior</b></sub></a> <a href="https://github.com/jaazieljr" title="GitHub">🚀</a>
+ <sub><b>Jaaziel Júnior</b></a></sub> <a href="https://github.com/jaazieljr" title="GitHub">🚀</a>
 
 
 Feito com ❤️ por Jaaziel Júnior 👋🏽 Entre em contato!
 
-[Instagram](https://www.instagram.com/lio_n_f/)
-[Linkedin](https://www.linkedin.com/in/jaaziel-dev/) 
+-[Instagram](https://www.instagram.com/lio_n_f/)
+-[Linkedin](https://www.linkedin.com/in/jaaziel-dev/) 
 
 
